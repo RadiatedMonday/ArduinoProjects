@@ -9,12 +9,16 @@
 В режиме будильника постепенно делает все светодиоды ярче.
 Вечером вращением энкодера включается красная подсветка.
 
-![RESULT](https://github.com/RadiatedMonday/ArduinoProjects/blob/main/Dawn_Clock_RGB/result.jpg)
-
 ## Схема оригинального проекта:
 
 RGB подключить на пины 3,5,6
+
 ![SCHEME](https://github.com/RadiatedMonday/ArduinoProjects/blob/main/Dawn_Clock_RGB/scheme1.jpg)
 
 Подключение если нет готового мосфет-модуля:
-![SCHEME](https://github.com/RadiatedMonday/ArduinoProjects/blob/main/Dawn_Clock_RGB/scheme1.jpg)
+
+![SCHEME](https://github.com/RadiatedMonday/ArduinoProjects/blob/main/Dawn_Clock_RGB/scheme2.jpg)
+
+
+Вечерняя подсветка:
+![RESULT](https://github.com/RadiatedMonday/ArduinoProjects/blob/main/Dawn_Clock_RGB/result.jpg)
