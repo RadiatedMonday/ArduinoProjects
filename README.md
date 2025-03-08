@@ -1,6 +1,9 @@
 # ArduinoProjects
 Реализованные проекты на Arduino
 
+## Dawn_Clock_RGB
+
+Будильник, который имитирует рассвет, плавно включая светодиодную RGB ленту
 
 ## Fritzing parts
 
