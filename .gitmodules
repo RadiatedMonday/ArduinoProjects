@@ -1,0 +1,30 @@
+[submodule "libraries/GyverButton"]
+	path = libraries/GyverButton
+	url = https://github.com/GyverLibs/GyverButton
+[submodule "libraries/GyverTM1637"]
+	path = libraries/GyverTM1637
+	url = https://github.com/GyverLibs/GyverTM1637
+[submodule "libraries/RTClib"]
+	path = libraries/RTClib
+	url = https://github.com/adafruit/RTClib
+[submodule "libraries/Adafruit_BusIO"]
+	path = libraries/Adafruit_BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO
+[submodule "libraries/GyverTimer"]
+	path = libraries/GyverTimer
+	url = https://github.com/GyverLibs/GyverTimer
+[submodule "libraries/GyverEncoder"]
+	path = libraries/GyverEncoder
+	url = https://github.com/GyverLibs/GyverEncoder
+[submodule "libraries/CyberLib"]
+	path = libraries/CyberLib
+	url = https://github.com/pythonista/CyberLib
+[submodule "libraries/LiquidCrystal_I2C"]
+	path = libraries/LiquidCrystal_I2C
+	url = https://github.com/johnrickman/LiquidCrystal_I2C
+[submodule "libraries/LCD_1602_RUS_ALL"]
+	path = libraries/LCD_1602_RUS_ALL
+	url = https://github.com/ssilver2007/LCD_1602_RUS_ALL
+[submodule "libraries/RF24"]
+	path = libraries/RF24
+	url = https://github.com/nRF24/RF24
