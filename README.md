@@ -9,3 +9,7 @@
 
 Каталог компонентов для [Fritzing](https://github.com/fritzing/fritzing-app)
 
+## HW testing sketches
+
+Простейшие скетчи для проверки оборудования
+
